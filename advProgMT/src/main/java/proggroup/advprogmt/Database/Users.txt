@@ -1,0 +1,9 @@
+Username(ID),Password,Type,FirstName,LastName,Address,CellPhone,Email,isBlocked
+roaa,roaa_me,Librarian,Roaa,Mohamad,Madinet Nasr,01153045123,roaamoh2003@gmail.com,false
+Maeen,me,Librarian,Maeen,Mohamed,El-Maadi,01501631113,maeenmohd@gmail.com,false
+omarash,omar123,Librarian,Omar,Ashraf,Sarai Al-Kobba,01145276996,omarabolilapersonal@gmail.com,false
+abdool,abdoolshU9,Reader,Abdelrahman,Barakat,Madinet Nasr,01078941557,therealabdelrahman@gmail.com,true
+omarelNahass,messi2003,Reader,Omar,Alaa El Nahass,El Behera,01145897668,lmfighter@yahoo.com,false
+eng_marwa,marwasham2023,Reader,Marwa,Shams,Ein Shams,01187941441,marwashams@gmail.com,false
+user1,user1pass,Reader,User,Name1,City1,01054862155,user1@company.com,false
+user2,user2pass,Reader,User,Name2,City2,01145789662,user2@company.com,false
